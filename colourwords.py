@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# encoding: utf-8
 
 # colourwords.py - find HTML colours that look like words.
 # Copyright (C) 2008  Will Harris
